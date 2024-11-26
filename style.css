@@ -51,11 +51,16 @@ a {
   justify-content: center;
   align-items: center;
   gap: 20px;
+  
 }
 .free {
   width: 90px;
 height: 5vh;
 border-radius: 20px;
+}
+button {
+  color: #fff;
+  background-color: #005AE2;
 }
 
 .headerBox {
