@@ -285,6 +285,7 @@ align-items: center;
 }
 .buttonImg {
   border: none;
+  border-radius: 20px;
 }
 .buttonText {
   font-size: 12px;
