@@ -288,8 +288,9 @@ align-items: center;
   border-radius: 20px;
 }
 .buttonText {
-  font-size: 12px;
-  text-align: center;
+  width: 210px;
+  font-size: 11px;
+  margin-top: 10px;
   color: #005AE2;
 }
 .FAQs {
